@@ -3,14 +3,10 @@
 Work in progress! This project analyzes Apple retail sales data using SQL, focusing on query optimization and business insights. Below are some screenshots showcasing the latest updates:
 [Screenshot1](https://github.com/akashdeep-portfolio/Apple-Retails-Sales-Analysis_1MillionRows-Advanced-SQL/blob/main/Screenshot%202025-02-10%20014832.png)
 
-# Apple Retail Stores by Country
-
-This table presents the total number of Apple retail stores in each country.
-
 ## Total Stores by Country
 
-<!-- Scrollable Table (Vertical) -->
-<div style="max-height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
+<details>
+  <summary>Click to Expand Table</summary>
 
 | Country               | Total Stores |
 |-----------------------|-------------|
@@ -50,6 +46,4 @@ This table presents the total number of Apple retail stores in each country.
 | South Korea          | 1           |
 | Saudi Arabia         | 1           |
 
-</div>
-
----
+</details>
