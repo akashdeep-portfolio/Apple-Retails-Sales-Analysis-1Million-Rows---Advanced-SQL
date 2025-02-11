@@ -21,9 +21,7 @@
 
 ## Project Overview
 
-This project is designed to showcase advanced SQL querying techniques through the analysis of over 1 million rows of Apple retail sales data. The dataset includes information about products, stores, sales transactions, and warranty claims across various Apple retail locations globally. By tackling a variety of questions, from basic to complex, you'll demonstrate your ability to write sophisticated SQL queries that extract valuable insights from large datasets.
-
-The project is ideal for data analysts looking to enhance their SQL skills by working with a large-scale dataset and solving real-world business questions.
+This project showcases advanced SQL querying techniques by analyzing over 1 million rows of Apple retail sales data, including products, stores, transactions, and warranty claims. It focuses on query optimization, trend analysis, and business insights using window functions, joins, and performance tuning. The project demonstrates the ability to work with large-scale datasets and extract real-world business insights.
 
 ## Entity Relationship Diagram (ERD)
 
@@ -1375,6 +1373,6 @@ This project primarily focuses on developing and showcasing the following SQL sk
 
 ## Conclusion
 
-By completing this project, you will develop advanced SQL querying skills, improve your ability to handle large datasets, and gain practical experience in solving complex data analysis problems that are crucial for business decision-making. This project is an excellent addition to your portfolio and will demonstrate your expertise in SQL to potential employers.
+This project helped develop advanced SQL skills, including query optimization, window functions, and performance tuning for handling large datasets. It provided hands-on experience in extracting business insights, analyzing sales trends, warranty claims, and store performance. Working on this dataset improved the ability to solve real-world data challenges, enhance data-driven decision-making, and apply SQL analytics effectively. This will also help demonstrate expertise in SQL to potential employers, making it a strong addition to a professional portfolio.
 
 ---
