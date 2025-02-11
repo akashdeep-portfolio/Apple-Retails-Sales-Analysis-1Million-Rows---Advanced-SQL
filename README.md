@@ -1170,7 +1170,7 @@ FROM monthly_sales
 <details>
   <summary>Data Output</summary>
 
-[Data Output Excel File]
+[Data Output Excel File](https://github.com/akashdeep-portfolio/Apple_Retails_SalesAnalysis_1MillionRows-SQL_Advance/blob/main/Q20_DataOutput.xlsx)
 
 </details><br>
 
