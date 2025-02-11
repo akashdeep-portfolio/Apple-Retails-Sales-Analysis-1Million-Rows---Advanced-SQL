@@ -1375,13 +1375,15 @@ This project primarily focuses on developing and showcasing the following SQL sk
 
 This project helped develop advanced SQL skills, including query optimization, window functions, and performance tuning for handling large datasets. It provided hands-on experience in extracting business insights, analyzing sales trends, warranty claims, and store performance. Working on this dataset improved the ability to solve real-world data challenges, enhance data-driven decision-making, and apply SQL analytics effectively. This will also help demonstrate expertise in SQL to potential employers, making it a strong addition to a professional portfolio.
 
-## Resources
+## Resources  
 
-This project utilized various SQL techniques and best practices to analyze large datasets efficiently. The following resources were referenced for query optimization, performance tuning, and advanced SQL functions:
+This project utilized various **SQL techniques and best practices** to analyze large datasets efficiently. The following resources were referenced for query optimization, performance tuning, and advanced SQL functions:  
 
--**SQL Documentation** – Official PostgreSQL and MySQL documentation for syntax and best practices.
--**Online SQL Courses** – Advanced SQL training materials from platforms like Coursera, Udemy, and DataCamp.
--**Database Optimization Guides** – Resources on indexing, query tuning, and execution plans to enhance performance.
--**Business Intelligence Articles** – Case studies and industry reports on sales trends and data-driven decision-making.
--**SQL Community & Forums** – Discussions on Stack Overflow and SQL-related blogs for troubleshooting complex queries.
+- **SQL Documentation** – Official [PostgreSQL](https://www.postgresql.org/) and [MySQL](https://www.mysql.com/products/workbench/) documentation for syntax and best practices.  
+- **Online SQL Courses** – Advanced SQL training materials from platforms like [Coursera](https://www.coursera.support/s/topic/0TO8W000001SYFmWAO/data-science?language=en_US).  
+- **Database Optimization Guides** – Resources like [Microsoft Learn](https://learn.microsoft.com/en-us/sql/relational-databases/performance/performance-monitoring-and-tuning-tools?view=sql-server-ver16) on indexing, query tuning, and execution plans to enhance performance.  
+- **SQL Community & Forums** – Discussions on [Stack Overflow](https://stackoverflow.com/questions/47913757/sql-complex-query) and [reddit](https://www.reddit.com/r/SQL/comments/6itquq/good_resources_to_learn_complex_sql_queries/?rdt=61271) 
+
+These resources provided valuable insights into **efficient query writing, data analysis techniques, and real-world business applications of SQL**.
+
 ---
