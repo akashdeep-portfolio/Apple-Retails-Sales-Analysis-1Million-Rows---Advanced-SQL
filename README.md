@@ -96,7 +96,6 @@ The project is split into three tiers of questions to test SQL skills of increas
 ### Easy to Medium
 
 1. Find the number of stores in each country.
-#### SQL Query:
 ```sql
 SELECT 
 	country,
@@ -149,7 +148,6 @@ ORDER BY 2 DESC
 </details><br>
 
 2. Calculate the total number of units sold by each store.
-#### SQL Query:
 ```sql
 SELECT 
 	s.store_id,
