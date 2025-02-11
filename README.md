@@ -30,7 +30,7 @@ The project is ideal for data analysts looking to enhance their SQL skills by wo
 ![ERD](https://github.com/akashdeep-portfolio/Apple_Retails_SalesAnalysis_1MillionRows-SQL_Advance/blob/main/erd.png)
 
 ---
-## Dataset & Schema
+## Dataset & Schema - [Download Dataset](https://github.com/akashdeep-portfolio/Apple_Retails_SalesAnalysis_1MillionRows-SQL_Advance/blob/main/apple_datasets.zip)
 
 - **Size**: 1 million+ rows of sales data.
 - **Period Covered**: The data spans multiple years, allowing for long-term trend analysis.
