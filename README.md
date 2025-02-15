@@ -6,7 +6,7 @@
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Entity Relationship Diagram (ERD)](#entity-relationship-diagram-erd)
-3. [Dataset & Schema](#dataset--schema)
+3. [Dataset & Schema](#dataset--schema---download-dataset)
 4. [Optimizing with Indexing](#optimizing-with-indexing)
    - [Performance Issue](#performance-issue)
    - [Applying Index](#applying-index)
